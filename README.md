@@ -1,16 +1,24 @@
-# tugas3praktikum2024
+## Tugas3Praktikum2024
 
-A new Flutter project.
+Nama       : Nicholas Hasian
 
-## Getting Started
+NIM        : H1D022053
 
-This project is a starting point for a Flutter application.
+Shift Baru : C
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Screenshot Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; justify-content: space-between;">
+
+ <img src="images/SS/login.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="images/SS/home1.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="images/SS/home2.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="images/SS/sidemenu.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="images/SS/still1.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="images/SS/still2.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="images/SS/specter1.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="images/SS/specter2.png" alt="Tampilan Perkenalan" style="width: 18%;">
+
+
+</div>
