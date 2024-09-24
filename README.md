@@ -11,14 +11,14 @@ Shift Baru : C
 
 <div style="display: flex; justify-content: space-between;">
 
- <img src="images/SS/login.png" alt="Tampilan Perkenalan" style="width: 12,5%;">
- <img src="images/SS/home1.png" alt="Tampilan Perkenalan" style="width: 12,5%;">
- <img src="images/SS/home2.png" alt="Tampilan Perkenalan" style="width: 12,5%;">
- <img src="images/SS/sidemenu.png" alt="Tampilan Perkenalan" style="width: 12,5%;">
- <img src="images/SS/still1.png" alt="Tampilan Perkenalan" style="width: 12,5%;">
- <img src="images/SS/still2.png" alt="Tampilan Perkenalan" style="width: 12,5%;">
- <img src="images/SS/specter1.png" alt="Tampilan Perkenalan" style="width: 12,5%;">
- <img src="images/SS/specter2.png" alt="Tampilan Perkenalan" style="width: 12,5%;">
+ <img src="images/SS/login.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/SS/home1.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/SS/home2.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/SS/sidemenu.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/SS/still1.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/SS/still2.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/SS/specter1.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/SS/specter2.png" alt="Tampilan Perkenalan" style="width: 12%;">
 
 
 </div>
